@@ -11,3 +11,4 @@ tqdm
 wfdb
 ecg-plot
 pydot
+livelossplot
